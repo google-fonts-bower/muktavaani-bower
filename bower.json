@@ -1,0 +1,17 @@
+{
+    "name": "muktavaani-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ek Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/muktavaani-bower.git"
+    },
+    "description": "Mukta Vaani font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
